@@ -9,7 +9,6 @@ Module 2 – Design the Azure Desktop Architecture - https://learn.microsoft.com
 Module 3 – Design for Identities and profiles - https://learn.microsoft.com/en-us/training/modules/design-user-identities-profiles/ <br>
 
 ## Learning Path 2 – Implement an Azure Virtual Desktop Infrastructure
-
 ### Modules
 
 Module 4 – Implement and manage networking for Azure Virtual Desktops - https://learn.microsoft.com/en-us/training/modules/implement-manage-networking-azure-virtual-desktop/ <br>
@@ -18,13 +17,11 @@ Module 6 – Create and configure host pools and session hosts for Azure Virtual
 Module 7 – Create and manage session host image for Azure Virtual Desktops - https://learn.microsoft.com/en-us/training/modules/create-manage-session-host-image/ <br>
 
 ## Learning Path 3 – Manage access and security for Azure Virtual Desktops
-
 ### Modules
 Module 8 – Manage access for Azure Virtual Desktops - https://learn.microsoft.com/en-us/training/modules/manage-access/ <br>
 Module 9 – Manage security for Azure Virtual Desktops - https://learn.microsoft.com/en-us/training/modules/manage-security/ <br>
 
 ## Learning Path 4 – Manage user environments and apps for Azure Virtual Desktops
-
 ### Modules
 
 Module 10 – Implement and manage FSLogic - https://learn.microsoft.com/en-us/training/modules/implement-manage-fslogix/ <br>
@@ -32,7 +29,6 @@ Module 11 – Configure user experience settings - https://learn.microsoft.com/e
 Module 12 – Install and configure apps on a session host - https://learn.microsoft.com/en-us/training/modules/install-configure-apps-session-host/ <br>
 
 ## Learning Path 5 – Monitor and maintain an Azure Virtual Desktop infrastructure
-
 ### Modules
 
 Module 13 – Plan for disaster recovery - https://learn.microsoft.com/en-us/training/modules/plan-implement-business-continuity-disaster-recovery/ <br>
