@@ -14,7 +14,7 @@ Step 3: Replace the XXXXXX with your initials <br>
 ### Exercise: Create a New Group for AVD-RemoteApp
 Step 3: Replace the XXXXXX with your initials <br>
 
-Task 2: Deploy an Azure Virtual Desktop host pool
+Task 2: Deploy an Azure Virtual Desktop host pool <br>
 Step 3: Student password, use the password for Student in the resources tab, add additional characters to make it 12 characters in length (I added 123) <br>
 
 Task 3: Create an Azure Virtual Desktop application group <br>
