@@ -7,6 +7,9 @@
 Task 1: Register the Azure subscription with the Microsoft.Insights resource provider <br>
 Step 3: Select Re-Register > Continue to refresh screen until status shows registered <br>
 
+Task 2: Create an Azure Log Analytics workspace<br>
+Step 2: Should read Name not Virtual network name >br?
+
 Task 3: Set up the Virtual Desktop Insights configuration workbook <br>
 Step 3: Check diagnostic settings for host pool: > click unset > select your log analytics workspace
 Step 13: Select Session host data settings <br>
