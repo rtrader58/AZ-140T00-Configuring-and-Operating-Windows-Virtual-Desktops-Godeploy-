@@ -37,7 +37,19 @@ https://azure.microsoft.com/pricing/reserved-vm-instances/ <br>
 
 ## Module 02 Design the Azure Virtual Desktop architecture
 
-https://learn.microsoft.com/en-us/azure/networking/azure-network-latency?tabs=Americas%2CWestUS#round-trip-latency-figures
+https://learn.microsoft.com/en-us/azure/networking/azure-network-latency?tabs=Americas%2CWestUS#round-trip-latency-figures <br>
+https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/data-platform-metrics <br>
+https://learn.microsoft.com/en-us/azure/virtual-machines/monitor-vm <br>
+https://learn.microsoft.com/en-us/azure/azure-monitor/data-sources <br>
+https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/diagnostic-settings <br>
+https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/monitor-azure-resource <br>
+https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/data-platform-metrics <br>
+https://learn.microsoft.com/en-us/azure/azure-monitor/data-sources <br>
+https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-overview <br>
+https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/collect-custom-metrics-linux-telegraf?tabs=ubuntu <br>
+
+
+
 
 
 
