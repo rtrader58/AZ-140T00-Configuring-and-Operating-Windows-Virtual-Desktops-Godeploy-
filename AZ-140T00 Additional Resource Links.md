@@ -23,8 +23,8 @@ Choose the best Azure serverless technology for your business scenario - https:/
 Choose the best monitoring service for visibility, insight, and outage mitigation - https://learn.microsoft.com/en-us/training/modules/monitoring-fundamentals/ <br>
 OFFICIAL COLLECTION - Course AZ-140T00: Configuring and Operating Microsoft Azure Virtual Desktop https://learn.microsoft.com/training/courses/az-140t00	 <br>
 
+## Links by Module
 ## Module 01 Azure Virtual Desktop Architecture
-
 https://learn.microsoft.com/en-us/mem/configmgr/ <br>
 https://learn.microsoft.com/en-us/windows/deployment/update/waas-manage-updates-wufb <br>
 https://learn.microsoft.com/en-us/azure/automation/update-management/overview <br>
@@ -34,9 +34,7 @@ https://learn.microsoft.com/en-us/azure/architecture/example-scenario/azure-virt
 https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/azure-subscription-service-limits <br>
 https://learn.microsoft.com/en-us/azure/virtual-machines/windows/hybrid-use-benefit-licensing <br>
 https://azure.microsoft.com/pricing/reserved-vm-instances/ <br>
-
 ## Module 02 Design the Azure Virtual Desktop architecture
-
 https://learn.microsoft.com/en-us/azure/networking/azure-network-latency?tabs=Americas%2CWestUS#round-trip-latency-figures <br>
 https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/data-platform-metrics <br>
 https://learn.microsoft.com/en-us/azure/virtual-machines/monitor-vm <br>
@@ -47,37 +45,25 @@ https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/data-platform-m
 https://learn.microsoft.com/en-us/azure/azure-monitor/data-sources <br>
 https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-overview <br>
 https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/collect-custom-metrics-linux-telegraf?tabs=ubuntu <br>
-
 ## Module 3 – Design for Identities and profiles
-
 https://learn.microsoft.com/en-us/azure/virtual-desktop/licensing <br>
 To achieve hybrid identity with Azure AD, one of three authentication methods can be used, depending on your scenarios. The three methods are: <br>
 https://learn.microsoft.com/en-us/entra/identity/hybrid/connect/whatis-phs <br>
 https://learn.microsoft.com/en-us/entra/identity/hybrid/connect/how-to-connect-pta <br>
 https://learn.microsoft.com/en-us/entra/identity/hybrid/connect/whatis-fed <br>
-
 ## Module 4 – Implement and manage networking for Azure Virtual Desktops
-
 https://learn.microsoft.com/en-us/azure/virtual-desktop/rdp-bandwidth#estimating-bandwidth-used-by-remote-graphics <br>
 RDP Shortpath uses TCP-based reverse connect transport over the Azure Virtual Desktop Gateway - https://learn.microsoft.com/en-us/azure/virtual-desktop/network-connectivity <br>
-
 ## Module 5 – Implement and manage storage for Azure Virtual Desktops
-
 For more information - https://learn.microsoft.com/en-us/azure/azure-netapp-files/azure-netapp-files-understand-storage-hierarchy <br>
 Azure NetApp files performance is a function of tier time capacity - https://learn.microsoft.com/en-us/azure/azure-netapp-files/azure-netapp-files-performance-considerations <br>
-
 ## Module 6 – Create and configure host pools and session hosts for Azure Virtual Desktops
-
 Microsoft Life Cycle Policy - https://learn.microsoft.com/en-us/lifecycle/ <br>
 https://learn.microsoft.com/en-us/windows-server/remote/remote-desktop-services/clients/remote-desktop-clients <br>
 https://learn.microsoft.com/en-us/azure/virtual-desktop/users/connect-remote-desktop-client?tabs=windows <br>
-
 ## Module 7 – Create and manage session host image for Azure Virtual Desktops
-
 Create a virtual machine from a managed image - https://learn.microsoft.com/en-us/azure/virtual-machines/vm-generalized-image-version?tabs=cli%2Ccli2%2Ccli3%2Ccli4 <br>
-
 ## Module 8 – Manage access for Azure Virtual Desktops
-
 https://learn.microsoft.com/en-us/entra/identity/hybrid/whatis-hybrid-identity <br>
 https://learn.microsoft.com/en-us/entra/identity/hybrid/connect/whatis-azure-ad-connect <br>
 https://learn.microsoft.com/en-us/entra/identity/domain-services/overview <br>
@@ -93,9 +79,7 @@ https://learn.microsoft.com/en-us/entra/identity/authentication/concept-certific
 https://learn.microsoft.com/en-us/azure/virtual-desktop/autoscale-create-assign-scaling-plan <br>
 https://learn.microsoft.com/en-us/azure/virtual-desktop/start-virtual-machine-connect?tabs=azure-portal <br>
 https://learn.microsoft.com/en-us/azure/virtual-desktop/app-attach-setup?tabs=portal&pivots=app-attach <br>
-
 ## Module 9 – Manage security for Azure Virtual Desktops
-
 https://learn.microsoft.com/en-us/defender-xdr/microsoft-365-defender <br>
 https://azure.microsoft.com/en-us/pricing/details/defender-for-cloud/ <br>
 https://learn.microsoft.com/en-us/azure/virtual-desktop/prerequisites?tabs=portal#supported-identity-scenarios <br>
@@ -106,25 +90,30 @@ https://learn.microsoft.com/en-us/security/zero-trust/azure-infrastructure-virtu
 https://learn.microsoft.com/en-us/azure/virtual-desktop/private-link-overview <br>
 https://learn.microsoft.com/en-us/azure/virtual-desktop/private-link-setup?tabs=azure%2Cportal%2Cportal-2 <br>
 https://learn.microsoft.com/en-us/azure/virtual-desktop/insights?tabs=monitor <br>
-
 ## Module 10 – Implement and manage FSLogic
-
-No Links
-
+No Links <br>
 ## Module 11 – Configure user experience settings
-
-No Links
-
+No Links <br>
 ## Module 12 – Install and configure apps on a session host
-
-No Links
-
+No Links <br>
 ## Module 13 – Monitor and manage performance and health
-
-
-
-
-
-
-
-
+https://learn.microsoft.com/en-us/azure/azure-monitor/logs/quick-create-workspace?tabs=azure-portal <br>
+https://learn.microsoft.com/en-us/azure/azure-monitor/agents/agent-windows?tabs=setup-wizard#workspace-id-and-key <br>
+https://learn.microsoft.com/en-us/azure/virtual-desktop/required-fqdn-endpoint?tabs=azure <br>
+https://learn.microsoft.com/en-us/azure/azure-monitor/roles-permissions-security <br>
+## Module 14 – Plan for disaster recovery
+https://learn.microsoft.com/en-us/azure/virtual-desktop/service-architecture-resilience
+https://learn.microsoft.com/en-us/azure/virtual-machines/availability-set-overview
+https://learn.microsoft.com/en-us/azure/reliability/availability-zones-service-support
+https://learn.microsoft.com/en-us/azure/storage/files/files-redundancy
+Fault tolerance in Azure Virtual Desktop
+https://learn.microsoft.com/en-us/azure/architecture/example-scenario/azure-virtual-desktop/azure-virtual-desktop-multi-region-bcdr#active-active-vs-active-passive
+https://learn.microsoft.com/en-us/azure/architecture/example-scenario/azure-virtual-desktop/azure-virtual-desktop-multi-region-bcdr
+https://learn.microsoft.com/en-us/azure/architecture/example-scenario/azure-virtual-desktop/azure-virtual-desktop-multi-region-bcdr#architecture-diagrams
+https://learn.microsoft.com/en-us/azure/architecture/example-scenario/azure-virtual-desktop/azure-virtual-desktop-multi-region-bcdr#failover-and-failback
+https://learn.microsoft.com/en-us/azure/architecture/example-scenario/azure-virtual-desktop/azure-virtual-desktop-multi-region-bcdr#prerequisites
+https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/azure-virtual-desktop/eslz-business-continuity-and-disaster-recovery#design-recommendations
+https://learn.microsoft.com/en-us/azure/architecture/example-scenario/azure-virtual-desktop/azure-virtual-desktop-multi-region-bcdr#storage
+https://learn.microsoft.com/en-us/azure/architecture/example-scenario/azure-virtual-desktop/azure-virtual-desktop-multi-region-bcdr#identity
+https://learn.microsoft.com/en-us/azure/architecture/example-scenario/azure-virtual-desktop/azure-virtual-desktop-multi-region-bcdr#backup
+https://learn.microsoft.com/en-us/azure/backup/backup-overview
