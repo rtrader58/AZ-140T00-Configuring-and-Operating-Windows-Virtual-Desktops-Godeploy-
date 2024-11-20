@@ -21,7 +21,7 @@ Explore Azure Storage services - https://learn.microsoft.com/en-us/training/modu
 Explore Azure database and analytics services - https://learn.microsoft.com/en-us/training/modules/azure-database-fundamentals/ <br>
 Choose the best Azure serverless technology for your business scenario - https://learn.microsoft.com/en-us/training/modules/serverless-fundamentals/ <br>
 Choose the best monitoring service for visibility, insight, and outage mitigation - https://learn.microsoft.com/en-us/training/modules/monitoring-fundamentals/ <br>
-OFFICIAL COLLECTION - Course AZ-140T00: Configuring and Operating Microsoft Azure Virtual Desktop - https://learn.microsoft.com/en-us/users/msftofficialcurriculum-4292/collections/7wrocj3k73g4dq <br>
+OFFICIAL COLLECTION - Course AZ-140T00: Configuring and Operating Microsoft Azure Virtual Desktop https://learn.microsoft.com/training/courses/az-140t00	 <br>
 
 ## Module 01 Azure Virtual Desktop Architecture
 
@@ -47,6 +47,81 @@ https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/data-platform-m
 https://learn.microsoft.com/en-us/azure/azure-monitor/data-sources <br>
 https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-overview <br>
 https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/collect-custom-metrics-linux-telegraf?tabs=ubuntu <br>
+
+## Module 3 – Design for Identities and profiles
+
+https://learn.microsoft.com/en-us/azure/virtual-desktop/licensing <br>
+To achieve hybrid identity with Azure AD, one of three authentication methods can be used, depending on your scenarios. The three methods are: <br>
+https://learn.microsoft.com/en-us/entra/identity/hybrid/connect/whatis-phs <br>
+https://learn.microsoft.com/en-us/entra/identity/hybrid/connect/how-to-connect-pta <br>
+https://learn.microsoft.com/en-us/entra/identity/hybrid/connect/whatis-fed <br>
+
+## Module 4 – Implement and manage networking for Azure Virtual Desktops
+
+https://learn.microsoft.com/en-us/azure/virtual-desktop/rdp-bandwidth#estimating-bandwidth-used-by-remote-graphics <br>
+RDP Shortpath uses TCP-based reverse connect transport over the Azure Virtual Desktop Gateway - https://learn.microsoft.com/en-us/azure/virtual-desktop/network-connectivity <br>
+
+## Module 5 – Implement and manage storage for Azure Virtual Desktops
+
+For more information - https://learn.microsoft.com/en-us/azure/azure-netapp-files/azure-netapp-files-understand-storage-hierarchy <br>
+Azure NetApp files performance is a function of tier time capacity - https://learn.microsoft.com/en-us/azure/azure-netapp-files/azure-netapp-files-performance-considerations <br>
+
+## Module 6 – Create and configure host pools and session hosts for Azure Virtual Desktops
+
+Microsoft Life Cycle Policy - https://learn.microsoft.com/en-us/lifecycle/ <br>
+https://learn.microsoft.com/en-us/windows-server/remote/remote-desktop-services/clients/remote-desktop-clients <br>
+https://learn.microsoft.com/en-us/azure/virtual-desktop/users/connect-remote-desktop-client?tabs=windows <br>
+
+## Module 7 – Create and manage session host image for Azure Virtual Desktops
+
+Create a virtual machine from a managed image - https://learn.microsoft.com/en-us/azure/virtual-machines/vm-generalized-image-version?tabs=cli%2Ccli2%2Ccli3%2Ccli4 <br>
+
+## Module 8 – Manage access for Azure Virtual Desktops
+
+https://learn.microsoft.com/en-us/entra/identity/hybrid/whatis-hybrid-identity <br>
+https://learn.microsoft.com/en-us/entra/identity/hybrid/connect/whatis-azure-ad-connect <br>
+https://learn.microsoft.com/en-us/entra/identity/domain-services/overview <br>
+https://learn.microsoft.com/en-us/entra/identity/devices/device-join-plan#federated-environment <br>
+https://learn.microsoft.com/en-us/entra/identity/devices/hybrid-join-plan <br>
+https://learn.microsoft.com/en-us/azure/virtual-desktop/configure-single-sign-on <br>
+https://learn.microsoft.com/en-us/entra/external-id/ <br>
+https://learn.microsoft.com/en-us/azure/virtual-desktop/set-up-mfa?tabs=avd <br>
+https://learn.microsoft.com/en-us/windows/security/identity-protection/hello-for-business/ <br>
+https://learn.microsoft.com/en-us/entra/identity/authentication/concept-authentication-passwordless <br>
+https://learn.microsoft.com/en-us/windows-server/identity/ad-fs/operations/configure-user-certificate-authentication <br>
+https://learn.microsoft.com/en-us/entra/identity/authentication/concept-certificate-based-authentication <br>
+https://learn.microsoft.com/en-us/azure/virtual-desktop/autoscale-create-assign-scaling-plan <br>
+https://learn.microsoft.com/en-us/azure/virtual-desktop/start-virtual-machine-connect?tabs=azure-portal <br>
+https://learn.microsoft.com/en-us/azure/virtual-desktop/app-attach-setup?tabs=portal&pivots=app-attach <br>
+
+## Module 9 – Manage security for Azure Virtual Desktops
+
+https://learn.microsoft.com/en-us/defender-xdr/microsoft-365-defender <br>
+https://azure.microsoft.com/en-us/pricing/details/defender-for-cloud/ <br>
+https://learn.microsoft.com/en-us/azure/virtual-desktop/prerequisites?tabs=portal#supported-identity-scenarios <br>
+https://learn.microsoft.com/en-us/security/zero-trust/deploy/identity <br>
+https://learn.microsoft.com/en-us/security/zero-trust/azure-infrastructure-storage <br>
+https://learn.microsoft.com/en-us/security/zero-trust/azure-infrastructure-networking <br>
+https://learn.microsoft.com/en-us/security/zero-trust/azure-infrastructure-virtual-machines <br>
+https://learn.microsoft.com/en-us/azure/virtual-desktop/private-link-overview <br>
+https://learn.microsoft.com/en-us/azure/virtual-desktop/private-link-setup?tabs=azure%2Cportal%2Cportal-2 <br>
+https://learn.microsoft.com/en-us/azure/virtual-desktop/insights?tabs=monitor <br>
+
+## Module 10 – Implement and manage FSLogic
+
+No Links
+
+## Module 11 – Configure user experience settings
+
+No Links
+
+## Module 12 – Install and configure apps on a session host
+
+No Links
+
+## Module 13 – Monitor and manage performance and health
+
+
 
 
 
