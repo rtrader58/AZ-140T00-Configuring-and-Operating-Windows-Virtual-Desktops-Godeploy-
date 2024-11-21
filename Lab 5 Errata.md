@@ -1,5 +1,9 @@
 # AZ-140T00 Configuring and Operating Microsoft Azure Virtual Desktop Lab 4 Errata
 
+Open PowerShell as Administrator at the prompt type the following: <br>
+
+W32TM /resync /force  <br>
+
 ## Lab 5 – Implement autoscaling in host pools (AD DS) ~60 Minutes
 
 Task 4: Create a scaling plan
