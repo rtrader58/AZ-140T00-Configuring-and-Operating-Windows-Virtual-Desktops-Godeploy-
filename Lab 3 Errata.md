@@ -6,6 +6,10 @@ Open PowerShell as Administrator at the prompt type the following: <br>
 
 W32TM /resync /force  <br>
 
+Or  <br>
+
+If the time sync failed on my VM because the change was too large.  Checked the date/time and the VM, manually changed the date/time to current date/time  <br>
+
 # Lab 3 - Implement monitoring by using Azure Virtual Desktop Insights
 
 ### Exercise 1: Implement monitoring of an Azure Virtual Desktop environment
