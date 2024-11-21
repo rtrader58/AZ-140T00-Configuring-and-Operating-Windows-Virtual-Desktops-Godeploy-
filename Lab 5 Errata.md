@@ -6,6 +6,10 @@ Open PowerShell as Administrator at the prompt type the following: <br>
 
 W32TM /resync /force  <br>
 
+Or  <br>
+
+If the time sync failed on the VM because the change was too large.  Manually changed the date/time to current date/time  <br>
+
 ## Lab 5 – Implement autoscaling in host pools (AD DS) ~60 Minutes
 
 Task 4: Create a scaling plan
