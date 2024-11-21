@@ -6,7 +6,7 @@ AZ-140 Exam objectives - https://learn.microsoft.com/en-us/certifications/exams/
 AZ-140 Exam Study guide -https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-140<br>
 Exam discount - https://www.interfacett.com/microsoft-certification-exams/<br>
 Azure Platforms Blog - https://social.msdn.microsoft.com/Forums/enUS/home?category=windowsazureplatform <br>
-Channel 9 - https://channel9.msdn.com? <br>
+Channel 9 - https://channel9.msdn.com <br>
 Azure Blog - https://azure.microsoft.com/en-us/blog <br>
 Microsoft Learn - https://docs.microsoft.com/learn/browse/ <br>
 Azure Documentation - https://docs.microsoft.com/azure/  <br>
