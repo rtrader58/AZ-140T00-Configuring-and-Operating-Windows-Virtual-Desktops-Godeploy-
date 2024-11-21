@@ -10,7 +10,7 @@ W32TM /resync /force  <br>
 
 Or  <br>
 
-If the time sync failed on my VM because the change was too large.  Checked the date/time and the VM, manually changed the date/time to current date/time  <br>
+If the time sync failed on the VM because the change was too large.  Manually changed the date/time to current date/time  <br>
 
 # Lab 2 - Manage host pools and session hosts by using the Azure portal (Entra ID)
 
