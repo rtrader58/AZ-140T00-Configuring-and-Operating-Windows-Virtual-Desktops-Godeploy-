@@ -6,6 +6,10 @@ Open PowerShell as Administrator at the prompt type the following: <br>
 
 W32TM /resync /force  <br>
 
+Or  <br>
+
+If the time sync failed on the VM because the change was too large.  Manually changed the date/time to current date/time  <br>
+
 # Lab 4 - Connect to session hosts (Entra ID)
 
 ### Exercise 1: Validate the functionality of Microsoft Entra joined Azure Virtual Desktop session hosts by connecting to them from a Windows 11 client
