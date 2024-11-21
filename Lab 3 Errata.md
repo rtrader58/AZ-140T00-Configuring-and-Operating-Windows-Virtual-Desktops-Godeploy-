@@ -1,5 +1,7 @@
 # AZ-140T00 Configuring and Operating Microsoft Azure Virtual Desktop Lab 3 Errata
 
+## If you save the lab you may get an error Interation required error when attempting to log into the Azure Portal.  Close the portal and do the following:
+
 Open PowerShell as Administrator at the prompt type the following: <br>
 
 W32TM /resync /force  <br>
