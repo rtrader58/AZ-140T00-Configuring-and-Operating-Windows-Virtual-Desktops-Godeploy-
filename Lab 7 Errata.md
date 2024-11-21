@@ -15,10 +15,10 @@ If the time sync failed on the VM because the change was too large.  Manually ch
 ### Exercise 1: Create custom session host images by using image templates
 
 Task 1: Create a user-assigned managed identity <br>
-Step 3: Replace the (random) in the Name with your initials <br>
+Step 4: Replace the random in the Name with your initials <br>
 
 Task 2: Create a custom Azure role-based access control (RBAC) role <br>
-Step 3: Paste in Notepad and Replace (Random) with Name of the Managed Identity created in Task 1 > Paste into Cloudshell <br>
+Step 3: Paste in Notepad and Replace (Random) with Name of the Managed Identity created in Task 1 Step 4 > Paste into Cloudshell <br>
 
 Task 6: Build a custom image <br>
 Step 2:  Build took a total of 45 minutes to build <br>
