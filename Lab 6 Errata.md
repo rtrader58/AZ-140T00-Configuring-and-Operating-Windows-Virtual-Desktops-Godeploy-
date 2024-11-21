@@ -6,6 +6,10 @@ Open PowerShell as Administrator at the prompt type the following: <br>
 
 W32TM /resync /force  <br>
 
+Or  <br>
+
+If the time sync failed on the VM because the change was too large.  Manually changed the date/time to current date/time  <br>
+
 ## Lab 6 – Implement Azure Private Link for Azure Virtual Desktop
 
 Task 6: Validate the private endpoint functionality <br>
