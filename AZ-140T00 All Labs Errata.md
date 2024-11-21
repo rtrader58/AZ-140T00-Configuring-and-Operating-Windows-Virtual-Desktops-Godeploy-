@@ -6,6 +6,10 @@ Open PowerShell as Administrator at the prompt type the following: <br>
 
 W32TM /resync /force  <br>
 
+Or  <br>
+
+If the time sync failed on my VM because the change was too large.  Checked the date/time and the VM, manually changed the date/time to current date/time  <br>
+
 # Lab 1 – Deploy host pools and session hosts by using the Azure portal (Entra ID) ~60 Minutes (30 Min)
 
 ### Exercise 1: Implement an Azure Virtual Desktop environment using Microsoft Entra joined session hosts
