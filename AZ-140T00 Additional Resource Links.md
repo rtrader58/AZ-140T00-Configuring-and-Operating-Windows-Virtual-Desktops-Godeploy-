@@ -100,18 +100,18 @@ https://learn.microsoft.com/en-us/azure/azure-monitor/agents/agent-windows?tabs=
 https://learn.microsoft.com/en-us/azure/virtual-desktop/required-fqdn-endpoint?tabs=azure <br>
 https://learn.microsoft.com/en-us/azure/azure-monitor/roles-permissions-security <br>
 ## Module 14 – Plan for disaster recovery
-https://learn.microsoft.com/en-us/azure/virtual-desktop/service-architecture-resilience
-https://learn.microsoft.com/en-us/azure/virtual-machines/availability-set-overview
-https://learn.microsoft.com/en-us/azure/reliability/availability-zones-service-support
-https://learn.microsoft.com/en-us/azure/storage/files/files-redundancy
-Fault tolerance in Azure Virtual Desktop
-https://learn.microsoft.com/en-us/azure/architecture/example-scenario/azure-virtual-desktop/azure-virtual-desktop-multi-region-bcdr#active-active-vs-active-passive
-https://learn.microsoft.com/en-us/azure/architecture/example-scenario/azure-virtual-desktop/azure-virtual-desktop-multi-region-bcdr
+https://learn.microsoft.com/en-us/azure/virtual-desktop/service-architecture-resilience <br>
+https://learn.microsoft.com/en-us/azure/virtual-machines/availability-set-overview <br>
+https://learn.microsoft.com/en-us/azure/reliability/availability-zones-service-support <br>
+https://learn.microsoft.com/en-us/azure/storage/files/files-redundancy <br>
+Fault tolerance in Azure Virtual Desktop <br>
+https://learn.microsoft.com/en-us/azure/architecture/example-scenario/azure-virtual-desktop/azure-virtual-desktop-multi-region-bcdr#active-active-vs-active-passive <br>
+https://learn.microsoft.com/en-us/azure/architecture/example-scenario/azure-virtual-desktop/azure-virtual-desktop-multi-region-bcdr <br>
 https://learn.microsoft.com/en-us/azure/architecture/example-scenario/azure-virtual-desktop/azure-virtual-desktop-multi-region-bcdr#architecture-diagrams
-https://learn.microsoft.com/en-us/azure/architecture/example-scenario/azure-virtual-desktop/azure-virtual-desktop-multi-region-bcdr#failover-and-failback
-https://learn.microsoft.com/en-us/azure/architecture/example-scenario/azure-virtual-desktop/azure-virtual-desktop-multi-region-bcdr#prerequisites
+https://learn.microsoft.com/en-us/azure/architecture/example-scenario/azure-virtual-desktop/azure-virtual-desktop-multi-region-bcdr#failover-and-failback <br>
+https://learn.microsoft.com/en-us/azure/architecture/example-scenario/azure-virtual-desktop/azure-virtual-desktop-multi-region-bcdr#prerequisites <br>
 https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/azure-virtual-desktop/eslz-business-continuity-and-disaster-recovery#design-recommendations
-https://learn.microsoft.com/en-us/azure/architecture/example-scenario/azure-virtual-desktop/azure-virtual-desktop-multi-region-bcdr#storage
-https://learn.microsoft.com/en-us/azure/architecture/example-scenario/azure-virtual-desktop/azure-virtual-desktop-multi-region-bcdr#identity
-https://learn.microsoft.com/en-us/azure/architecture/example-scenario/azure-virtual-desktop/azure-virtual-desktop-multi-region-bcdr#backup
+https://learn.microsoft.com/en-us/azure/architecture/example-scenario/azure-virtual-desktop/azure-virtual-desktop-multi-region-bcdr#storage <br>
+https://learn.microsoft.com/en-us/azure/architecture/example-scenario/azure-virtual-desktop/azure-virtual-desktop-multi-region-bcdr#identity <br>
+https://learn.microsoft.com/en-us/azure/architecture/example-scenario/azure-virtual-desktop/azure-virtual-desktop-multi-region-bcdr#backup <br>
 https://learn.microsoft.com/en-us/azure/backup/backup-overview
