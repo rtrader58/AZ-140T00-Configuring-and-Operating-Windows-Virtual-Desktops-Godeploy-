@@ -10,7 +10,7 @@ Channel 9 - https://channel9.msdn.com <br>
 Azure Blog - https://azure.microsoft.com/en-us/blog <br>
 Microsoft Learn - https://docs.microsoft.com/learn/browse/ <br>
 Azure Documentation - https://docs.microsoft.com/azure/  <br>
-Azure forums https://docs.microsoft.com/answers/products/azure?product=all  <br>
+Azure forums - https://docs.microsoft.com/answers/products/azure?product=all  <br>
 Microsoft Azure Blog - https://azure.microsoft.com/blog/  <br>
 Microsoft Learning Community Blog – https://techcommunity.microsoft.com/t5/microsoft-learn-blog/bg-p/MicrosoftLearnBlog  <br>
 Describe core Azure architectural components - https://learn.microsoft.com/en-us/training/modules/azure-architecture-fundamentals/ <br>
@@ -20,7 +20,7 @@ Explore Azure Storage services - https://learn.microsoft.com/en-us/training/modu
 Explore Azure database and analytics services - https://learn.microsoft.com/en-us/training/modules/azure-database-fundamentals/ <br>
 Choose the best Azure serverless technology for your business scenario - https://learn.microsoft.com/en-us/training/modules/serverless-fundamentals/ <br>
 Choose the best monitoring service for visibility, insight, and outage mitigation - https://learn.microsoft.com/en-us/training/modules/monitoring-fundamentals/ <br>
-OFFICIAL COLLECTION - Course AZ-140T00: Configuring and Operating Microsoft Azure Virtual Desktop https://learn.microsoft.com/training/courses/az-140t00	 <br>
+OFFICIAL COLLECTION - Course AZ-140T00: Configuring and Operating Microsoft Azure Virtual Desktop https://learn.microsoft.com/training/courses/az-140t00 <br>
 ## Links by Module
 ## Module 01 - Azure Virtual Desktop Architecture
 https://learn.microsoft.com/en-us/mem/configmgr/ <br>
