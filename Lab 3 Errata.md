@@ -1,5 +1,9 @@
 # AZ-140T00 Configuring and Operating Microsoft Azure Virtual Desktop Lab 3 Errata
 
+Open PowerShell as Administrator at the prompt type the following: <br>
+
+W32TM /resync /force  <br>
+
 # Lab 3 - Implement monitoring by using Azure Virtual Desktop Insights
 
 ### Exercise 1: Implement monitoring of an Azure Virtual Desktop environment
