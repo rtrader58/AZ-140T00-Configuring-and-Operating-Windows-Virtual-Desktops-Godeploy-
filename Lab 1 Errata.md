@@ -1,5 +1,11 @@
 # AZ-140T00 Configuring and Operating Microsoft Azure Virtual Desktop Labs 1 Errata
 
+## If you save the lab you may get an error Interation required error when attempting to log into the Azure Portal.  Close the portal and do the following:
+
+Open PowerShell as Administrator at the prompt type the following: <br>
+
+W32TM /resync /force  <br>
+
 # Lab 1 – Deploy host pools and session hosts by using the Azure portal (Entra ID) ~60 Minutes (30 Min)
 
 ### Exercise 1: Implement an Azure Virtual Desktop environment using Microsoft Entra joined session hosts
