@@ -6,6 +6,10 @@ Open PowerShell as Administrator at the prompt type the following: <br>
 
 W32TM /resync /force  <br>
 
+Or  <br>
+
+If the time sync failed on the VM because the change was too large.  Manually changed the date/time to current date/time  <br>
+
 ## Lab 7 – Create custom session host images by using image templates
 
 ### Exercise 1: Create custom session host images by using image templates
