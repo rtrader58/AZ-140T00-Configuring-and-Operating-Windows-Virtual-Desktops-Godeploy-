@@ -36,10 +36,10 @@ Module 14 – Plan for disaster recovery - https://learn.microsoft.com/en-us/tra
 
 ### Labs: Configuring and Operating Microsoft Azure Virtual Desktop
 
-Lab 1: Deploy host pools and session hosts by using the Azure portal (Entra ID) (30 minutes)  <br>
-Lab 2: Manage host pools and session hosts by using the Azure portal (Entra ID) (30 minutes)  <br>
-Lab 3: Implement monitoring by using Azure Virtual Desktop Insights (25 minutes)  <br>
-Lab 4: Connect to session hosts (Entra ID) (20 minutes)  <br>
+Lab 1: Deploy host pools and session hosts by using the Azure portal (Entra ID) (90 minutes)  <br>
+Lab 2: Manage host pools and session hosts by using the Azure portal (Entra ID) (60 minutes)  <br>
+Lab 3: Implement monitoring by using Azure Virtual Desktop Insights (30 minutes)  <br>
+Lab 4: Connect to session hosts (Entra ID) (30 minutes)  <br>
 Lab 5: Implement and monitor autoscaling of session hosts (45 minutes)  <br>
 Lab 6: Implement Azure Private Link for Azure Virtual Desktop (45 minutes)  <br>
 Lab 7: Create custom session host images by using image templates (90 minutes)  <br>
