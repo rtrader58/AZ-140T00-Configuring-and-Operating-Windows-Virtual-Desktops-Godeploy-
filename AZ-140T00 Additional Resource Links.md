@@ -56,6 +56,7 @@ RDP Shortpath uses TCP-based reverse connect transport over the Azure Virtual 
 For more information - https://learn.microsoft.com/en-us/azure/azure-netapp-files/azure-netapp-files-understand-storage-hierarchy <br>
 Azure NetApp files performance is a function of tier time capacity - https://learn.microsoft.com/en-us/azure/azure-netapp-files/azure-netapp-files-performance-considerations <br>
 ## Module 6 – Create and configure host pools and session hosts for Azure Virtual Desktops
+Required FQDNs and endpoints for Azure Virtual Desktop - https://learn.microsoft.com/en-us/azure/virtual-desktop/required-fqdn-endpoint?tabs=azure <br>
 Microsoft Life Cycle Policy - https://learn.microsoft.com/en-us/lifecycle/ <br>
 https://learn.microsoft.com/en-us/windows-server/remote/remote-desktop-services/clients/remote-desktop-clients <br>
 https://learn.microsoft.com/en-us/azure/virtual-desktop/users/connect-remote-desktop-client?tabs=windows <br>
