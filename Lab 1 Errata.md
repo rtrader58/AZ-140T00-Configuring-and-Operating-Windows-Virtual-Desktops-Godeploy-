@@ -28,4 +28,4 @@ Task 2: Deploy an Azure Virtual Desktop host pool <br>
 Step 3: Student password, use the password for Student in the resources tab, add additional characters to make it 12 characters in length (I added 123) <br>
 
 Task 3: Create an Azure Virtual Desktop application group <br>
-Step 8: If you get an error there are no virtual machines - in the host poos > session hosts > restart session host <br>
+Step 8: If you get an error there are no virtual machines - in the host pools > session hosts > restart session host <br>
